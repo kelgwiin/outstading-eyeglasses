@@ -13,7 +13,7 @@ It's important to mention that some customers could ask for such
 amenities and others one for a different kind of characteristics.
 
 
-##Requirements
+## Requirements
 1. In addition, your design necessarily needs to support any other feature
 we could add in the future.
 2. You can follow the design pattern principle _Decorator_
